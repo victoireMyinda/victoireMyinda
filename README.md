@@ -1,4 +1,4 @@
-### Salut  👋  Je suis victoire myinda. Software engineer et developpeur Fullstack web et mobile. Passionné par les nouvelles technologies de l'information et de la communication. De base, developpeur javascript comme stack : React, React native, Express, Mysql, MongoDB.
+###  Avec une solide expérience dans le développement d'applications mobiles multiplateformes, je m'efforce de créer des expériences utilisateur exceptionnelles en utilisant les dernières technologies et les meilleures pratiques de conception..
 
 
 
